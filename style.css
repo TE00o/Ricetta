@@ -1,0 +1,62 @@
+div {
+	text-align:center;
+	
+}
+
+.sinistra {
+  text-align:left;
+}
+p {
+font-family:calibri;
+font-size:125%;
+font-style:oblique;
+text-transform:capitalize;
+}	
+.ultimo {
+	background-color:gray;
+	text-align:left;
+	font-family:calibri;
+	font-size:125%;
+	font-style:oblique;
+}
+
+ul {
+	font-size:20px;
+}
+a:visited  {
+	color:purple;
+}
+a:link{
+	color:blue;
+}
+h1{
+	
+	font-size:195%;
+	text-align:center;
+}
+.centro {
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	font-family:Arial;
+}
+nav.menu{
+	margin-top:15px;
+	padding:15px;
+	background:white;
+	text-align:center;
+}
+nav.menu a {
+border: 1px dashed black;
+color:black;
+padding:5px;
+margin-right:10px;
+}
+html {
+	background-image:url();
+	background-size:cover;
+}
+h2 {
+text-decoration:underline;	
+}
