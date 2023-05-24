@@ -8,20 +8,15 @@ div {
 }
 p {
 font-family:calibri;
-font-size:125%;
+font-size:180%;
 font-style:oblique;
 text-transform:capitalize;
-}	
-.ultimo {
-	background-color:gray;
-	text-align:left;
-	font-family:calibri;
-	font-size:125%;
-	font-style:oblique;
-}
+color:black;
+	
+
 
 ul {
-	font-size:20px;
+	font-size:30px;
 }
 a:visited  {
 	color:purple;
@@ -31,32 +26,23 @@ a:link{
 }
 h1{
 	
-	font-size:195%;
+	font-size:250%;
 	text-align:center;
 }
 .centro {
 	text-align:center;
 }
-a{
-	text-decoration:none;
-	font-family:Arial;
-}
-nav.menu{
-	margin-top:15px;
-	padding:15px;
-	background:white;
-	text-align:center;
-}
-nav.menu a {
-border: 1px dashed black;
-color:black;
-padding:5px;
-margin-right:10px;
+
 }
 html {
-	background-image:url('rosso.jpg');
-	background-size:cover;
+	background-image:url('tova2.jpg');
+	background-size:contain;
 }
 h2 {
 text-decoration:underline;	
 }
+.ultimo {
+ background-color:grey;
+}
+
+
